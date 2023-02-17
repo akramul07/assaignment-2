@@ -1,0 +1,77 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    position: relative;
+    width: 100%;
+    padding-top: 40px;
+    height: auto;
+    background-color: rgb(245, 233, 218);
+}
+
+/*----------nav section----------*/
+.site-name a{
+    font-family: work sans;
+    font-size: 33px;
+    text-decoration: none;
+    color: #ff900e;
+}
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu ul li a{
+    padding-right: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    
+    
+}
+.nav-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+/*----------header content section----------*/
+.header-h1{
+    font-size: 20px;
+    padding-top: 205px;
+    margin: auto 529px auto;
+    text-align: center;
+}
+#header-p{
+    text-align: center;
+    font-size: 22PX;
+}
+#header{
+    font-size: 50px;
+    line-height: 60px;
+    font-family: work sans;
+}
+.btn-primary{
+    background-color: #ff900e;
+    color: white;
+    padding: 20px 30px 20px;
+    border-radius: 5px;
+    border: 0px;
+    font-weight: 700;
+    font-size: 15px;   
+}
+.banner-img{
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 1440px;
+    height: 700px;
+    padding-bottom: 50px;
+}
+
+/*----------main section start ----------*/
